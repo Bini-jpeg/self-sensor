@@ -1,10 +1,7 @@
 # Self‑Localizing Sensor Network (SLSN)
 
 <p align="center">
-  <video width="600" controls>
-    <source src="results/localization.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="results/localization.gif" width="600" alt="Localization convergence animation" />
   <br>
   <em>Convergence of the estimated positions (red) toward ground truth (blue).</em>
 </p>
